@@ -73,7 +73,7 @@ __Programming Skillzz:__
 
 
 
-[TOP](#javascript-fundamentals)
+[TOP](#variables-&-types)
 
 ---
 
@@ -97,7 +97,7 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 
 
 
-[TOP](#javascript-fundamentals)
+[TOP](#variables-&-types)
 
 ---
 
@@ -105,6 +105,7 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 
 Completed step-through diagrams to study:
 * [Value swap](./value-swap)
+* 
 
 Tutorials and the like:
 * [JavaScript.info](http://javascript.info/) chapters:
@@ -157,7 +158,7 @@ Tricky Bits:
 * [Incrementing & Decrementing](https://codeburst.io/javascript-increment-and-decrement-8c223858d5ed)
 
 
-[TOP](#javascript-fundamentals)
+[TOP](#variables-&-types)
 
 ___
 ___

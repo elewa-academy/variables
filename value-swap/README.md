@@ -16,6 +16,10 @@ a = b;
 b = holder;
 ```
 
+[Live PyTut link](https://goo.gl/AEWUqm)
+
+[Parsons Practice](https://elewa-academy.github.io/parsons/examples-to-study/variables-types/value-swap.html)
+
 ___
 
 ### The Sketches
@@ -26,8 +30,11 @@ ___
 ![](./step-4.png)
 ![](./step-5.png)
 ![](./step-6.png)
-![](./step-7.png)
-![](./step-8.png)
+![](./step-final.png)
+
+___
+
+![](./final-state.png)
 
 ___
 ___
