@@ -103,7 +103,7 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 
 ## Resources
 
-_Completed step-through diagrams to study_
+__Completed step-through diagrams to study:__
 
 These examples serve two purposes:
 1. Teach by example how to sketch JavaScript's execution behavior.
@@ -118,7 +118,7 @@ These examples seem simple on the surface, but are very important to understand.
 * [Hoisting](./hoisting)
 * [Dot vs Bracket Access](./dots-vs-brackets)
 
-_Tutorials and the like:_
+__Tutorials and the like:__
 * [JavaScript.info](http://javascript.info/) chapters:
   * 2.1 -> 2.9
   * 4.1 -> 4.2
@@ -136,7 +136,7 @@ _Tutorials and the like:_
   * [Values](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch2.md)
   * [Type Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md)
 
-Visualization Tools:
+__Visualization Tools:__
 * [PythonTutor for JavaScript](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md#pythontutor):
   * For building your Notional Machine: visualizes how the JavaScript engine steps through code, deals with variables, and handles control flow. 
   * Copy your code into the text area and click "visualize execution".  Step through line by line with the "forward" button.  
@@ -146,7 +146,7 @@ Visualization Tools:
 
 
 
-Tricky Bits:
+__Tricky Bits:__
 * Creation vs Execution phases:
   * _Creation phase_ is what happens before the first line is executed.  Mostly just hoisting. You can see what happened in the creation phase, it's what PythonTutor displays before you click the __forward__ button for the first time.
   * _Execution phase_ is everything that happens after the creation phase.
