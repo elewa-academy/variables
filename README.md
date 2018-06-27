@@ -103,13 +103,17 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 
 ## Resources
 
-Completed step-through diagrams to study:
-* [Reference vs. Value](./value-vs-reference)
+__Completed step-through diagrams to study__.  These examples serve two purposes:
+1. Teach by example how to sketch JavaScript's execution behavior.
+2. Highlight some of the tricky (but very important) features of JS Variables & Types.   
+These examples seem simple on the surface, but are very important to understand.  We have found that many errors students come across have nothing to do with Express, Vue, or any other library/framework.  Instead the errors come from mis-understanding one of these pure JS concepts:
+* Assignment vs. Comparison
+* Chainined Assignments
 * [Value Swap](./value-swap)
-* [Variables are __untyped__](./variables-are-untyped)
-* [Chaining Assignments](./chaining-assignments)
+* Variables are __untyped__
+* [Reference vs. Value](./reference-vs-value)
 * [Hoisting](./hoisting)
-* [Dot vss Bracket Access](./dots-vs-brackets)
+* [Dot vs Bracket Access](./dots-vs-brackets)
 
 Tutorials and the like:
 * [JavaScript.info](http://javascript.info/) chapters:
@@ -147,6 +151,11 @@ Tricky Bits:
   * [Primitives vs. Objects](https://codeburst.io/javascript-data-types-explained-347555cd2d4d)
   * [List of them](https://www.w3schools.com/js/js_datatypes.asp)
   * [Type Coersion](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
+* Expressions vs. Operators:
+  * (This is a tricky concept, it will make more sense after __Scope & Flow Control__)
+  * Over Views:[dev.to](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2), [flaviocopes](https://flaviocopes.com/javascript-expressions/), [lib.ru](http://lib.ru/%3E%3C/JAVA/javascr/expr.html)
+  * In Depth: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators), [2ality](http://2ality.com/2012/09/expressions-vs-statements.html)
+  * Assignment vs Comparison: [Overview (study with PyTut)](https://www.quirksmode.org/blog/archives/2008/01/using_the_assig.html#link1), [This isn't just a JS thing](http://wiki.c2.com/?AssignmentVsEqualityOperator)
 * Assign by reference vs. value: 
   * [Gist to study](https://gist.github.com/colevandersWands/9f50787fdddfb195d181da94c25536d8)
   * [article 1](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
