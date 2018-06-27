@@ -104,8 +104,12 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 ## Resources
 
 Completed step-through diagrams to study:
-* [Value swap](./value-swap)
-* 
+* [Reference vs. Value](./value-vs-reference)
+* [Value Swap](./value-swap)
+* [Variables are __untyped__](./variables-are-untyped)
+* [Chaining Assignments](./chaining-assignments)
+* [Hoisting](./hoisting)
+* [Dot vss Bracket Access](./dots-vs-brackets)
 
 Tutorials and the like:
 * [JavaScript.info](http://javascript.info/) chapters:
@@ -139,6 +143,10 @@ Tricky Bits:
 * Creation vs Execution phases:
   * _Creation phase_ is what happens before the first line is executed.  Mostly just hoisting. You can see what happened in the creation phase, it's what PythonTutor displays before you click the __forward__ button for the first time.
   * _Execution phase_ is everything that happens after the creation phase.
+* JavaScript Types:
+  * [Primitives vs. Objects](https://codeburst.io/javascript-data-types-explained-347555cd2d4d)
+  * [List of them](https://www.w3schools.com/js/js_datatypes.asp)
+  * [Type Coersion](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
 * Assign by reference vs. value: 
   * [Gist to study](https://gist.github.com/colevandersWands/9f50787fdddfb195d181da94c25536d8)
   * [article 1](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
@@ -156,6 +164,9 @@ Tricky Bits:
   * [Issues with 'var'](https://www.youtube.com/watch?v=7tGmS2SPxBo)
   * [in great detail](http://exploringjs.com/es6/ch_variables.html)
 * [Incrementing & Decrementing](https://codeburst.io/javascript-increment-and-decrement-8c223858d5ed)
+* Memory Management & Garbage Collection:
+  * [Over-view](https://codeburst.io/javascript-memory-management-and-garbage-collection-in-javascript-ebe7a97d7143)
+  * [In-depth](https://javascript.info/garbage-collection)
 
 
 [TOP](#variables-&-types)
