@@ -103,9 +103,12 @@ These diagrams are __change logs__. You won't be drawing everything on the scree
 
 ## Resources
 
-__Completed step-through diagrams to study__.  These examples serve two purposes:
+_Completed step-through diagrams to study_
+
+These examples serve two purposes:
 1. Teach by example how to sketch JavaScript's execution behavior.
 2. Highlight some of the tricky (but very important) features of JS Variables & Types.   
+
 These examples seem simple on the surface, but are very important to understand.  We have found that many errors students come across have nothing to do with Express, Vue, or any other library/framework.  Instead the errors come from mis-understanding one of these pure JS concepts:
 * Assignment vs. Comparison
 * Chainined Assignments
@@ -115,7 +118,7 @@ These examples seem simple on the surface, but are very important to understand.
 * [Hoisting](./hoisting)
 * [Dot vs Bracket Access](./dots-vs-brackets)
 
-Tutorials and the like:
+_Tutorials and the like:_
 * [JavaScript.info](http://javascript.info/) chapters:
   * 2.1 -> 2.9
   * 4.1 -> 4.2
