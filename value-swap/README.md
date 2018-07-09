@@ -18,7 +18,7 @@ b = holder;
 
 [Live PyTut link](https://goo.gl/AEWUqm)
 
-[Parsons Practice](https://elewa-academy.github.io/parsons/examples-to-study/variables-types/value-swap.html)
+Parsons Practice: [the logic]](https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html#value-swap-logic), [the javascript](https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html#value-swap-js)
 
 ___
 

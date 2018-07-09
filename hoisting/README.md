@@ -25,7 +25,7 @@ console.log(_var); // logs: vvaarr
 
 [Live PyTut link](https://goo.gl/RDz7Ft)
 
-[Parsons Practice](https://elewa-academy.github.io/parsons/examples-to-study/variables-types/hoisting.html)
+[Parsons Practice](https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html#hoisting)
 
 ___
 

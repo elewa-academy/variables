@@ -23,10 +23,13 @@ Not taking the time to learn these skills now may feel harmless and probably won
 
 ## Learning Objectives
 
+_Program State_: State is the current values of all variables in your program.  Program state is dynamic, it changes over the course of your application's __run-time__. Because variables are frequently modified, state cannot be determined just by reading at your source code.  The purpose of this repository is to give you the tools to understand and track changes in your JS programs' state.
+
 __Study Techniques:__
 * Stepping through run-time behavior with PythonTutor
 * Sketching run-time behavior on paper
 * Changelog tracing: what changed with each step?
+
 
 __JavaScript:__
 * Creation & Execution Phases
@@ -42,8 +45,9 @@ __JavaScript:__
   * Type Conversions
 * Objects (without methods):
   * Dot vs. Bracket access
-* Arrays:
-  * Basic array methods
+* Arrays: Basic methods 
+  * Reading, writing & modifying methods ("splice", "push", "pop")
+  * (not "filter", "map", "forEach", or "reduce")
 
 __Programming Skillzz:__
 * Code life-cycle:
@@ -123,6 +127,7 @@ __Tutorials and the like:__
   * 2.1 -> 2.9
   * 4.1 -> 4.2
   * 5.1 -> 5.5
+  * 5.7 -> 5.9 (challenge)
 * Practical JavaScript:
   * [Basic Syntax](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/basic-syntax/)
   * [Data Types and Structures](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/data-types/)
@@ -135,6 +140,9 @@ __Tutorials and the like:__
   * [Types](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md)
   * [Values](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch2.md)
   * [Type Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md)
+* Learn-JS:
+  * [Variables & Types](http://www.learn-js.org/en/Variables_and_Types)
+  * Arrays: [1](http://www.learn-js.org/en/Arrays), [2](http://www.learn-js.org/en/Manipulating_Arrays)
 
 __Visualization Tools:__
 * [PythonTutor for JavaScript](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md#pythontutor):
@@ -169,6 +177,7 @@ __Tricky Bits:__
   * [Creation phase](http://tramaine.me/blog/javascript-variables-and-functions-are-hoisted-prior-to-execution)
   * [Step-through example](./hoisting-example-step-through.md)
   * [Great gist](https://gist.github.com/rishabhgupta/06921ed0fb442071018fc3d643a3f913)
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
 * Scope:
   * [gist to study](https://gist.github.com/colevandersWands/557c6f7f770eaecfcb6216c893e69166)
   * [w3schools](https://www.w3schools.com/js/js_scope.asp)
