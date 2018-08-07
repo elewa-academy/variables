@@ -118,7 +118,7 @@ These examples seem simple on the surface, but are very important to understand.
 * Chainined Assignments
 * [Value Swap](./value-swap)
 * Variables are __untyped__
-* [Reference vs. Value](./reference-vs-value)
+* [Reference vs. Value](https://github.com/elewa-academy/reference-vs-value)
 * [Hoisting](./hoisting)
 * [Dot vs Bracket Access](./dots-vs-brackets)
 
