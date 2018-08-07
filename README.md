@@ -116,7 +116,7 @@ These examples serve two purposes:
 These examples seem simple on the surface, but are very important to understand.  We have found that many errors students come across have nothing to do with Express, Vue, or any other library/framework.  Instead the errors come from mis-understanding one of these pure JS concepts:
 * Assignment vs. Comparison
 * Chainined Assignments
-* [Value Swap](./value-swap)
+* [Value Swap](https://github.com/elewa-academy/value-swap)
 * Variables are __untyped__
 * [Reference vs. Value](https://github.com/elewa-academy/reference-vs-value)
 * [Hoisting](https://github.com/elewa-academy/hoisting)
