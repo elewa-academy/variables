@@ -119,7 +119,7 @@ These examples seem simple on the surface, but are very important to understand.
 * [Value Swap](./value-swap)
 * Variables are __untyped__
 * [Reference vs. Value](https://github.com/elewa-academy/reference-vs-value)
-* [Hoisting](./hoisting)
+* [Hoisting](https://github.com/elewa-academy/hoisting)
 * [Dot vs Bracket Access](./dots-vs-brackets)
 
 __Tutorials and the like:__
