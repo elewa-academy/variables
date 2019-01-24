@@ -2,7 +2,7 @@
 
 There are two primary ways to access properties in JavaScript objects:
 * __Dot notation:__ direct access by key
-* __Bracket notation:__ indirect access by reference
+* __Bracket notation:__ indirect access by value
 
 These two types of access can be quite confusing at the beginning, but with a solid understanding of how variables & values work the mystery fades away. Knowing when to use one or the other can take some time and experience, but learning how they work is not so tricky with the right visualizations.
 
